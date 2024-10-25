@@ -2,9 +2,9 @@
 created by Reaktor Innovations and University of Helsinki. 
 Copy the template, paste it to your GitHub README and edit! -->
 
-# Project Title
+# MENTOR AI
 
-MentorAI - Un asistente de IA personalizado que guía a estudiantes universitarios a través de sus carreras académicas y profesionales
+Un asistente de IA personalizado que guía a estudiantes universitarios a través de sus carreras académicas y profesionales
 
 ## Summary
 
